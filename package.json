@@ -58,7 +58,7 @@
     "prettier-stylelint": "0.4.2",
     "sass-loader": "8.0.2",
     "style-loader": "1.2.1",
-    "terser-webpack-plugin": "3.0.5",
+    "terser-webpack-plugin": "3.1.0",
     "ts-loader": "7.0.5",
     "ts-node": "8.10.2",
     "typescript": "3.9.5",
