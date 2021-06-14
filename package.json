@@ -32,7 +32,7 @@
     "react-use": "^15.3.3"
   },
   "devDependencies": {
-    "@babel/core": "7.10.2",
+    "@babel/core": "7.14.6",
     "@kintone/dts-gen": "3.0.4",
     "@kintone/plugin-packer": "3.0.4",
     "@kintone/plugin-uploader": "4.0.4",
